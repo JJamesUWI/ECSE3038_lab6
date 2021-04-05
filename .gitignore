@@ -1,0 +1,11 @@
+api\venv
+embedded\.pio\build
+embedded\.vscode
+embedded\include
+embedded\lib
+embedded\test
+embedded\platformio.ini
+embedded\.gitignore
+api\store.txt
+C:\Users\james\Documents\Courses\Year 3\ECSE3038 - IOT\ECSE3038_lab_6\embedded\platformio.ini
+C:\Users\james\Documents\Courses\Year 3\ECSE3038 - IOT\ECSE3038_lab_6\api\store.txt
